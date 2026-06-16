@@ -1,4 +1,5 @@
-<h1 font-weight : bold; font-size : 50px;>내 이름은 정후니</h1>
+<h1 font-weight : bold; font-size : 50px;>나는야 정후니✌️</h1>
+
 <div font-weight : bold; font-size : 100px; color:red;>Until everyone loves guinea pig!🐹🐹🐹</div>
 <br>
 <img src="image/gguii.jpeg" width="500">
